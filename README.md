@@ -1,5 +1,6 @@
-# Kitsune
-A PHP implementation of Club Penguin's latest protocol.
+# Penguin
+Penguin is a friendly kitsune's fork(after the original project is dead) PHP implementation of Club Penguin's latest protocol.
+
 
 ## Prerequisites
 * PHP version ≥ 5.6
