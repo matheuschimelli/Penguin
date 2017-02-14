@@ -11,3 +11,10 @@ Penguin is a friendly kitsune's fork(after the original project is dead) PHP imp
 
 ## Configuration
 Edit **Database.xml** to conform to your database installation.
+
+##Contribute
+
+Contribution is very welcome. To do this, make a fork and then a pull request. There is a lot of work to be done.
+
+##WHY?
+After Club Penguin (not Island Club Penguin) from Disney was closed, this is a community maitened server emulator for remeber the good old days of CP(if you played cp on 2006-2008 you know what im saying). 
