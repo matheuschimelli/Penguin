@@ -17,4 +17,4 @@ Edit **Database.xml** to conform to your database installation.
 Contribution is very welcome. To do this, make a fork and then a pull request. There is a lot of work to be done.
 
 ##WHY?
-After Club Penguin (not Island Club Penguin) from Disney was closed, this is a community maitened server emulator for remeber the good old days of CP(if you played cp on 2006-2008 you know what im saying). 
+After Club Penguin (not Island Club Penguin) from Disney was closed, this is a community maintened server emulator for remember the good old days of CP(if you played cp on 2006-2008 you know what im saying).
